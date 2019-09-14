@@ -30,4 +30,4 @@
 
 6. Due to the differences in operation environments, python versions, versions of various open libraries, you may meet problems. Please refer to the license.
 
-7. Should you have any question, you can put forward the issue in this repository.
+7. Should you have any question, you can put forward it in the “Issues” of this repository.
