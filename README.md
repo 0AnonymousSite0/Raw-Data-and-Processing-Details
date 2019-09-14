@@ -16,7 +16,7 @@
 
 4. Before re-using the python codes, you should adjust the file paths of demanded materials in the codes according to your operating environment.
 
-5. The five codes provided perform well before submitting them. 
+5. The five codes provided has been tested before submitting them. They all perform well
 
 ![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_1_%20Data_Cleansing_Identify_the_Pipe_Burst_Location.png)
 
