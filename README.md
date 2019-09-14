@@ -16,7 +16,17 @@
 
 4. Before re-using the python codes, you should adjust the file paths of demanded materials in the codes according to your operating environment.
 
-5. All codes provided perform well before submitting them. 
+5. The five codes provided perform well before submitting them. 
+
+![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_1_%20Data_Cleansing_Identify_the_Pipe_Burst_Location.png)
+
+![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_1_%20Data_Cleansing_Tranforming%20news%20articles%20to%20hash%20value%20(text%20similarities).png)
+
+![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_3_Named_Entity_Recognition_of_Infrastructure_Entities.png)
+
+![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_3_Named_Entity_Recognition_of_Stakeholders_Entities.png)
+
+![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_5_Association_Rule_Learning_for%20IFI_chains.png)
 
 6. Due to the differences in operation environments, python versions, versions of various open libraries, you may meet problems. Please refer to the license.
 
