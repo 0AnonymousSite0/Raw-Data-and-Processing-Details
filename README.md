@@ -31,6 +31,7 @@ Figure.3 Named_Entity_Recognition_of_Infrastructure_Entities
 Figure.4 Named_Entity_Recognition_of_Stakeholders_Entities
 
 ![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_5_Association_Rule_Learning_for%20IFI_chains.png)
+
 Figure.5 Association_Rule_Learning_for 20IFI_chains (15099 potential rules as shown in this figure)
 
 6. Due to the differences in operation environments, python versions, versions of various open libraries, you may meet problems. Please refer to the license.
