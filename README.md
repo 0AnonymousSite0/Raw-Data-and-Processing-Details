@@ -16,7 +16,7 @@
 
 4. Before re-using the python codes, you should adjust the file paths of demanded materials in the codes according to your operating environment.
 
-5. The five codes provided have been tested before submitting them. They all perform well as the following five figures.
+5. The codes provided have been tested before submitting them. They all perform well as the following figures.
 
 ![image](https://github.com/0AnonymousSite0/Raw-Data-and-Processing-Details/blob/master/Images/For_Phase_1_%20Data_Cleansing_Identify_the_Pipe_Burst_Location.png)
 Figure.1 Data_Cleansing_Identify_the_Pipe_Burst_Location
@@ -34,6 +34,6 @@ Figure.4 Named_Entity_Recognition_of_Stakeholders_Entities
 
 Figure.5 Association_Rule_Learning_for_IFI_chains (11943 potential rules as shown in this figure)
 
-6. Due to the differences in operation environments, python versions, versions of various open libraries, you may meet problems. Please refer to the license.
+6. Due to the differences in operation environments, python versions, and versions of various open libraries, you may meet problems. Please refer to the license.
 
 7. Should you have any question, you can put forward it in the “Issues” of this repository.
