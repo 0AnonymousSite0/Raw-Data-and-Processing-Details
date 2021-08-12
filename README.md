@@ -1,4 +1,4 @@
-# Data and Codes for Delineating-Infrastructure-Failure-Interdependencies-and-Associated-Stakeholders-through-News-Mining
+# Data and Codes for IIF identification
 
 
 1. This repository is for storing the appendices for the paper named “Delineating Infrastructure Failure Interdependencies and Associated Stakeholders through Mining News articles”
